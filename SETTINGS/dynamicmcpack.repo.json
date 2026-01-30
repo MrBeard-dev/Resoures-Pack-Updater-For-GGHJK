@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "build": 1,
+  "name": "ServerPack",
+  "required": true,
+  "contents": [
+    {
+      "id": "main",
+      "url": "content.json",
+      "hash": "5d56fdcd187cca18468b9e4f35acdf1140928f6e",
+      "required": true
+    }
+  ]
+}

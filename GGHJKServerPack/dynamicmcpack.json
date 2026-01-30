@@ -1,0 +1,9 @@
+{
+  "current": {},
+  "remote": {
+    "sign_no_required": true,                                
+    "type": "dynamic_repo",                                   
+    "url": "https://github.com/MrBeard-dev/Resoures-Pack-Updater-For-GGHJK/GGHJKServerPack" 
+  },
+  "formatVersion": 1                                          
+}

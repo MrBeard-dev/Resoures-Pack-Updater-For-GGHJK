@@ -1,0 +1,10 @@
+# Made in Blockbench 4.9.3
+newmtl m_83d40be3-ed84-760f-7cdc-8aa7f9805b59
+map_Kd metal_bright.png
+newmtl m_abad2bb4-061a-3725-a273-2885f5b68c10
+map_Kd v-bend-left.png
+newmtl m_643454ef-9781-8593-10cb-462c74e4882c
+map_Kd metal.png
+newmtl m_050da89c-318d-080b-e760-bbf866fb1a89
+map_Kd v-bridge.png
+newmtl none
