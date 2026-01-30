@@ -1,0 +1,20 @@
+{
+    "b90_door_door_open": {
+        "sounds": [
+            {
+                "name": "mtr:b90_door/door_open",
+                "pitch": 0.5,
+                "attenuation_distance": 32
+            }
+        ]
+    },
+    "b90_door_door_close": {
+        "sounds": [
+            {
+                "name": "mtr:b90_door/door_close",
+                "pitch": 0.5,
+                "attenuation_distance": 32
+            }
+        ]
+    }
+}

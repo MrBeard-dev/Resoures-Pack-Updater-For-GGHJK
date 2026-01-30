@@ -1,0 +1,7 @@
+The mini version of the B90 is an edited version of the LHI T851 made by ナビィ (aka Navi), AdoraLi and Mei Fwong,
+with some changes made such as skirts, couplers and transverse seats. I, c()inc do not own the model, even it's modifications.
+
+Thanks to Navi/ナビィ for the sounds and some parts of the texture.
+Finally, thanks to SirPiglin for the texture and the idea of remaking a DLR train !
+
+Credits to Curt for converting the 1995 stock BVE sound into B90 sounds.
