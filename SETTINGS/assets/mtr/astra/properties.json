@@ -1,0 +1,72 @@
+{
+    "transport_mode": "TRAIN",
+    "length": 6,
+    "width": 2,
+    "door_max": 14,
+    "parts": [
+        {
+            "name": "EXT",
+            "stage": "EXTERIOR",
+            "mirror": false,
+            "skip_rendering_if_too_far": false,
+            "door_offset": "NONE",
+            "render_condition": "ALL",
+            "positions": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "whitelisted_cars": "11",
+            "blacklisted_cars": ""
+        },
+        {
+            "name": "INT",
+            "stage": "INTERIOR",
+            "mirror": false,
+            "skip_rendering_if_too_far": false,
+            "door_offset": "NONE",
+            "render_condition": "ALL",
+            "positions": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "whitelisted_cars": "",
+            "blacklisted_cars": ""
+        },
+        {
+            "name": "DOOR_B",
+            "stage": "EXTERIOR",
+            "mirror": false,
+            "skip_rendering_if_too_far": false,
+            "door_offset": "RIGHT_POSITIVE",
+            "render_condition": "ALL",
+            "positions": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "whitelisted_cars": "",
+            "blacklisted_cars": ""
+        },
+        {
+            "name": "DOOR_A",
+            "stage": "EXTERIOR",
+            "mirror": false,
+            "skip_rendering_if_too_far": false,
+            "door_offset": "RIGHT_NEGATIVE",
+            "render_condition": "ALL",
+            "positions": [
+                [
+                    0,
+                    0
+                ]
+            ],
+            "whitelisted_cars": "",
+            "blacklisted_cars": ""
+        }
+    ]
+}

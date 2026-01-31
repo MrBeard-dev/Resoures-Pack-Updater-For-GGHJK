@@ -1,5 +1,1083 @@
 {
-    "b90_door_door_open": {
+    "lion_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:lion/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "lion_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:lion/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "lion_run":{
+      "sounds":[
+         {
+            "name":"mtr:lion/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "lion_motor0":{
+      "sounds":[
+         {
+            "name":"mtr:lion/motor0",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "varyag_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:varyag/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "varyag_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:varyag/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "varyag_run":{
+      "sounds":[
+         {
+            "name":"mtr:varyag/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "varyag_motor0":{
+      "sounds":[
+         {
+            "name":"mtr:varyag/motor0",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "gothat57_run":{
+      "sounds":[
+         {
+            "name":"mtr:gothat57/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "gothat57_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:gothat57/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "gothat57_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:gothat57/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "old_run":{
+      "sounds":[
+         {
+            "name":"mtr:old/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "old_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:old/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "old_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:old/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "retro_run":{
+      "sounds":[
+         {
+            "name":"mtr:old/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "rt8d5m_run":{
+      "sounds":[
+         {
+            "name":"mtr:rt8d5m/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "rt8d5m_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:rt8d5m/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "rt8d5m_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:rt8d5m/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "ktm_run":{
+      "sounds":[
+         {
+            "name":"mtr:ktm/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "ktm_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:ktm/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "ktm_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:ktm/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vario_run":{
+      "sounds":[
+         {
+            "name":"mtr:vario/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vario_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:vario/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vario_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:vario/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_run":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/run",
+            "attenuation_distance":20
+         }
+      ]
+   },
+   "pesa_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_motor0":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/motor0",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_motor1":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/motor1",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_motor2":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/motor2",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_motor3":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/motor3",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "pesa_motor4":{
+      "sounds":[
+         {
+            "name":"mtr:pesa/motor4",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "bkm_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:bkm/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "bkm_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:bkm/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "bkm_run":{
+      "sounds":[
+         {
+            "name":"mtr:bkm/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "bkm_motor0":{
+      "sounds":[
+         {
+            "name":"mtr:bkm/motor0",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vityaz_doorclose":{
+      "sounds":[
+         {
+            "name":"mtr:vityaz/doorclose",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vityaz_dooropen":{
+      "sounds":[
+         {
+            "name":"mtr:vityaz/dooropen",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vityaz_run":{
+      "sounds":[
+         {
+            "name":"mtr:vityaz/run",
+            "attenuation_distance":16
+         }
+      ]
+   },
+   "vityaz_motor0":{
+      "sounds":[
+         {
+            "name":"mtr:vityaz/motor0",
+            "attenuation_distance":16
+         }
+      ]
+   },
+
+  "ted_ezh_air": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/air",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_airzero": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/airzero",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_cpend": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/cpend",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_cploop": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/cploop",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_cpstart": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/cpstart",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_doorclose": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/doorclose",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_dooropen": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/dooropen",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_flange0": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/flange0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_loop": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/loop",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_ezh_motor0": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/motor0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_motor1": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/motor1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_motor2": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/motor2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_point": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/point",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_rub": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/rub",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run0": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run1": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run2": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run3": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run3",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run4": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run4",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run5": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run5",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run6": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run6",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_ezh_run7": {
+    "sounds": [
+      {
+        "name": "mtr:ted_ezh/run7",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_air": {
+    "sounds": [
+      {
+        "name": "mtr:ted/air",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_airzero": {
+    "sounds": [
+      {
+        "name": "mtr:ted/airzero",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_cpend": {
+    "sounds": [
+      {
+        "name": "mtr:ted/cpend",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_cploop": {
+    "sounds": [
+      {
+        "name": "mtr:ted/cploop",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_cpstart": {
+    "sounds": [
+      {
+        "name": "mtr:ted/cpstart",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_doorclose": {
+    "sounds": [
+      {
+        "name": "mtr:ted/doorclose",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_dooropen": {
+    "sounds": [
+      {
+        "name": "mtr:ted/dooropen",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_flange0": {
+    "sounds": [
+      {
+        "name": "mtr:ted/flange0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_loop": {
+    "sounds": [
+      {
+        "name": "mtr:ted/loop",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "ted_motor0": {
+    "sounds": [
+      {
+        "name": "mtr:ted/motor0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_motor1": {
+    "sounds": [
+      {
+        "name": "mtr:ted/motor1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_motor2": {
+    "sounds": [
+      {
+        "name": "mtr:ted/motor2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_point": {
+    "sounds": [
+      {
+        "name": "mtr:ted/point",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_rub": {
+    "sounds": [
+      {
+        "name": "mtr:ted/rub",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run0": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run0",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run1": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run2": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run3": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run3",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run4": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run4",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run5": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run5",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run6": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run6",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ted_run7": {
+    "sounds": [
+      {
+        "name": "mtr:ted/run7",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "720_airhigh": {
+    "sounds": [
+      {
+        "name": "mtr:720/airhigh",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_doorcls": {
+    "sounds": [
+      {
+        "name": "mtr:720/doorcls",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_dooropn": {
+    "sounds": [
+      {
+        "name": "mtr:720/dooropn",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_loop": {
+    "sounds": [
+      {
+        "name": "mtr:720/loop",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_motor1": {
+    "sounds": [
+      {
+        "name": "mtr:720/motor1",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_motor2": {
+    "sounds": [
+      {
+        "name": "mtr:720/motor2",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_motor0": {
+    "sounds": [
+      {
+        "name": "mtr:720/motor0",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_motor3": {
+    "sounds": [
+      {
+        "name": "mtr:720/motor3",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_motor4": {
+    "sounds": [
+      {
+        "name": "mtr:720/motor4",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_point": {
+    "sounds": [
+      {
+        "name": "mtr:720/point",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_run": {
+    "sounds": [
+      {
+        "name": "mtr:720/run",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "720_flange": {
+    "sounds": [
+      {
+        "name": "mtr:720/flange",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_airhigh": {
+    "sounds": [
+      {
+        "name": "mtr:760/airhigh",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_doorcls": {
+    "sounds": [
+      {
+        "name": "mtr:760/doorcls",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_dooropn": {
+    "sounds": [
+      {
+        "name": "mtr:760/dooropn",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_loop": {
+    "sounds": [
+      {
+        "name": "mtr:760/loop",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_motor1": {
+    "sounds": [
+      {
+        "name": "mtr:760/motor1",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_motor2": {
+    "sounds": [
+      {
+        "name": "mtr:760/motor2",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_motor0": {
+    "sounds": [
+      {
+        "name": "mtr:760/motor0",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_motor3": {
+    "sounds": [
+      {
+        "name": "mtr:760/motor3",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_motor4": {
+    "sounds": [
+      {
+        "name": "mtr:760/motor4",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_point": {
+    "sounds": [
+      {
+        "name": "mtr:760/point",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_run": {
+    "sounds": [
+      {
+        "name": "mtr:760/run",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "760_flange": {
+    "sounds": [
+      {
+        "name": "mtr:760/flange",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "tangyuichi1.gmail.com"
+  },
+  "chistoubik_airhigh": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/airhigh",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_doorcls": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/doorcls",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_dooropn": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/dooropn",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_loop": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/loop",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_motor1": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/motor1",
+        "attenuation_distance": 32,
+        "pitch": 0.5
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_motor2": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/motor2",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_motor0": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/motor0",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_motor3": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/motor3",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_motor4": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/motor4",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_point": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/point",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_run": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/run",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+  "chistoubik_flange": {
+    "sounds": [
+      {
+        "name": "mtr:chistoubik/flange",
+        "attenuation_distance": 32
+      }
+    ],
+    "blame": "wongho0227.gmail.com"
+  },
+    "metro_740_doorcls": {"sounds": [{"name": "mtr:metro_740/doorcls","attenuation_distance": 48}]},
+    "metro_740_dooropn": {"sounds": [{"name": "mtr:metro_740/doorcls","attenuation_distance": 48}]},
+    "metro_740_loop": {"sounds": [{"name": "mtr:metro_740/loop","attenuation_distance": 48}]},
+    "metro_740_motor0": {"sounds": [{"name": "mtr:metro_740/motor0","attenuation_distance": 48}]},
+    "metro_740_motor1": {"sounds": [{"name": "mtr:metro_740/motor1","attenuation_distance": 48}]},
+    "metro_740_motor2": {"sounds": [{"name": "mtr:metro_740/motor2","attenuation_distance": 48}]},
+    "metro_740_motor3": {"sounds": [{"name": "mtr:metro_740/motor3","attenuation_distance": 48}]},
+    "metro_740_run": {"sounds": [{"name": "mtr:metro_740/run","attenuation_distance": 48}]},
+    "tram_2010_loop": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/loop",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/airhigh",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/airzero",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/dooropn",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/doorcls",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_run": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/run",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/motor0",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "tram_2010_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:tram_2010/motor1",
+                "pitch": 1,
+                "attenuation_distance": 64
+            }
+        ]
+    },
+        "b90_door_door_open": {
         "sounds": [
             {
                 "name": "mtr:b90_door/door_open",
@@ -16,5 +1094,1221 @@
                 "attenuation_distance": 32
             }
         ]
-    }
+    },
+    "wh_01b01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/airzero",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_01b01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_01b01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor7",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_02b03_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/motor8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_03b01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_03b01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/motor7",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_02b03/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_04b01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_04b01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_04b01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor7",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/motor8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_05a01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_05a01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/motor8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_07a01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_07a01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/motor8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_08a01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_08a01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor4": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor7",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_motor8": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/motor8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/flange0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_11a01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_11a01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/motor6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/flange0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_loop": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"wh_16a01_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:wh_16a01/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+  "sf3_airhigh": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/airhigh",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_airzero": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/airzero",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_doorcls": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/doorcls",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_dooropn": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/dooropn",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_loop": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/loop",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_motor0": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/motor0",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_motor1": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/motor1",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_motor2": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/motor2",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_motor3": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/motor3",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_point": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/point",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "sf3_run": {
+        "sounds": [
+            {
+                "name": "mtr:sf3/run",
+                "attenuation_distance": 64
+            }
+        ]
+    },
+    "b07_air": {
+		"sounds": [
+			{
+				"name": "mtr:b07/air",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:b07/airzero",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_cpend": {
+		"sounds": [
+			{
+				"name": "mtr:b07/cpend",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_cploop": {
+		"sounds": [
+			{
+				"name": "mtr:b07/cploop",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_cpstart": {
+		"sounds": [
+			{
+				"name": "mtr:b07/cpstart",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:b07/doorcls",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:b07/dooropn",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:b07/flange0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_loop": {
+		"sounds": [
+			{
+				"name": "mtr:b07/loop",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor0": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor1": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor2": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor3": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor5": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor6": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_motor7": {
+		"sounds": [
+			{
+				"name": "mtr:b07/motor7",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_point": {
+		"sounds": [
+			{
+				"name": "mtr:b07/point",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run0": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run0",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run1": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run1",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run2": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run2",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run3": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run3",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run4": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run4",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run5": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run5",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run6": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run6",
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"b07_run7": {
+		"sounds": [
+			{
+				"name": "mtr:b07/run7",
+				"attenuation_distance": 32
+			}
+		]
+	},
+  "u12_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:doors/door_open",
+				"pitch": 1.2,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"u12_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:doors/door_close",
+				"pitch": 1.2,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"ghost_door_open": {
+		"sounds": [
+			{
+				"name": "mtr:doors/ghost_open",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"ghost_door_close": {
+		"sounds": [
+			{
+				"name": "mtr:doors/ghost_close",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	}
 }
+

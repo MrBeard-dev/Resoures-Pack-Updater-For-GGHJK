@@ -1,6 +1,15 @@
 {
-    
-	"tram_track": {
+	"tr_rail_plit": {
+        "name": "§cTram rails with concrete plates",
+        "model": "mtrsteamloco:rails/rail_plit.obj",
+		"repeatInterval": 1
+    },
+	"tr_rail_sunked": {
+        "name": "§cTram rails[Sunked]",
+        "model": "mtrsteamloco:rails/cobble/sunked.obj",
+		"repeatInterval": 1.05
+    },
+    "tram_track": {
 		"name": "§9Tram tracks with attached road",
         "model": "mtrsteamloco:rails/tram_track.obj",
 		"repeatInterval": 0.5
@@ -15,4 +24,5 @@
 		"model":"mtrsteamloco:rails/sunken_road_real.obj",
 		"repeatInterval": 0.6
 	}
+
 }

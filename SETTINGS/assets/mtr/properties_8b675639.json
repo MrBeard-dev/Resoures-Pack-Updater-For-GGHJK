@@ -1,0 +1,1239 @@
+{
+    "parts": [
+        {
+            "names": [
+                "window_a_ext"
+            ],
+            "positionDefinitions": [
+                "457ed458"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "window_a_int"
+            ],
+            "positionDefinitions": [
+                "3d8ca445"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "window_b_ext"
+            ],
+            "positionDefinitions": [
+                "9ed81b3c"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "window_b_int"
+            ],
+            "positionDefinitions": [
+                "ed3ef9a7"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "window_light"
+            ],
+            "positionDefinitions": [
+                "fb4376a5"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "window_floor"
+            ],
+            "positionDefinitions": [
+                "17b3ccfa"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "FLOOR",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "logo"
+            ],
+            "positionDefinitions": [
+                "8b4bfdd"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "roof_end"
+            ],
+            "positionDefinitions": [
+                "7619f6de"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "undercarage"
+            ],
+            "positionDefinitions": [
+                "a7cbefa8"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_ext"
+            ],
+            "positionDefinitions": [
+                "4699cfb5"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_int"
+            ],
+            "positionDefinitions": [
+                "16dc1c8d"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_disp_ns"
+            ],
+            "positionDefinitions": [
+                "8657f94e"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "SINGLE_LINE",
+                "SCROLL_NORMAL"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "NEXT_STATION",
+            "displayDefaultText": "",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_disp_dest"
+            ],
+            "positionDefinitions": [
+                "9fbf55bb"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "SINGLE_LINE",
+                "SCROLL_NORMAL"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_floor"
+            ],
+            "positionDefinitions": [
+                "aaeb202c"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "FLOOR",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "doorway"
+            ],
+            "positionDefinitions": [
+                "fd196f12"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DOORWAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_gap_filler"
+            ],
+            "positionDefinitions": [
+                "9e4ce644"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -2.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "PLUG_SLOW_2",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_right"
+            ],
+            "positionDefinitions": [
+                "34777c29"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": 13.0,
+            "doorAnimationType": "PLUG_SLOW",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_left"
+            ],
+            "positionDefinitions": [
+                "e78f9e46"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": -13.0,
+            "doorAnimationType": "PLUG_SLOW",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_right_int"
+            ],
+            "positionDefinitions": [
+                "eec35cf3"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": 13.0,
+            "doorAnimationType": "PLUG_SLOW",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_left_int"
+            ],
+            "positionDefinitions": [
+                "79ab431b"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": -13.0,
+            "doorAnimationType": "PLUG_SLOW",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_transparent"
+            ],
+            "positionDefinitions": [
+                "36431593"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR_TRANSLUCENT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "door_red"
+            ],
+            "positionDefinitions": [
+                "5fab3331"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "ALWAYS_ON_LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 100,
+            "renderUntilOpeningDoorTime": 100,
+            "renderFromClosingDoorTime": 2000,
+            "renderUntilClosingDoorTime": 100,
+            "flashOffTime": 500,
+            "flashOnTime": 500
+        },
+        {
+            "names": [
+                "door_green"
+            ],
+            "positionDefinitions": [
+                "6f9ed42"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "ALWAYS_ON_LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 100,
+            "renderUntilOpeningDoorTime": 2000,
+            "renderFromClosingDoorTime": 100,
+            "renderUntilClosingDoorTime": 100,
+            "flashOffTime": 500,
+            "flashOnTime": 500
+        },
+        {
+            "names": [
+                "door_green"
+            ],
+            "positionDefinitions": [
+                "c2c2926b"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "ALWAYS_ON_LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": -1.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 2000,
+            "renderUntilOpeningDoorTime": 5000,
+            "renderFromClosingDoorTime": 5000,
+            "renderUntilClosingDoorTime": 2000,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "end_ext"
+            ],
+            "positionDefinitions": [
+                "fadd99c"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "end_int"
+            ],
+            "positionDefinitions": [
+                "88af8fae"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "end_disp"
+            ],
+            "positionDefinitions": [
+                "6441f879"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "CYCLE_LANGUAGES"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "NEXT_STATION",
+            "displayDefaultText": "",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "end_floor"
+            ],
+            "positionDefinitions": [
+                "ee4b4a7a"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "FLOOR",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "seat"
+            ],
+            "positionDefinitions": [
+                "bfc01526"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "seat_p"
+            ],
+            "positionDefinitions": [
+                "9c0d964c"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "SEAT",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "side_display"
+            ],
+            "positionDefinitions": [
+                "dc2371b1"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "sd_ext"
+            ],
+            "positionDefinitions": [
+                "b0320197"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "CYCLE_LANGUAGES"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "sd_int"
+            ],
+            "positionDefinitions": [
+                "9810c846"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FFFFFF",
+            "displayColor": "FFFFFF",
+            "displayMaxLineHeight": 1.0,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "CYCLE_LANGUAGES"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "NEXT_STATION_KCR",
+            "displayDefaultText": "off route",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "head_ext"
+            ],
+            "positionDefinitions": [
+                "144f9a30"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "head_int"
+            ],
+            "positionDefinitions": [
+                "41d2d159"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "INTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "head_floor"
+            ],
+            "positionDefinitions": [
+                "b8a15b28"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "FLOOR",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "headlights"
+            ],
+            "positionDefinitions": [
+                "da3c9eb1"
+            ],
+            "condition": "ON_ROUTE_BACKWARDS",
+            "renderStage": "ALWAYS_ON_LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "taillights"
+            ],
+            "positionDefinitions": [
+                "4150d7b9"
+            ],
+            "condition": "ON_ROUTE_FORWARDS",
+            "renderStage": "ALWAYS_ON_LIGHT",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "head_display"
+            ],
+            "positionDefinitions": [
+                "dea03615"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "DISPLAY",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [
+                "CYCLE_LANGUAGES"
+            ],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "NOT IN SERVICE",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        },
+        {
+            "names": [
+                "coupler"
+            ],
+            "positionDefinitions": [
+                "407721d5"
+            ],
+            "condition": "NORMAL",
+            "renderStage": "EXTERIOR",
+            "type": "NORMAL",
+            "displayXPadding": 0.0,
+            "displayYPadding": 0.0,
+            "displayColorCjk": "FF9900",
+            "displayColor": "FF9900",
+            "displayMaxLineHeight": 1.5,
+            "displayCjkSizeRatio": 2.0,
+            "displayOptions": [],
+            "displayPadZeros": 0.0,
+            "displayType": "DESTINATION",
+            "displayDefaultText": "Not In Service",
+            "doorXMultiplier": 0.0,
+            "doorZMultiplier": 0.0,
+            "doorAnimationType": "STANDARD",
+            "renderFromOpeningDoorTime": 0,
+            "renderUntilOpeningDoorTime": 0,
+            "renderFromClosingDoorTime": 0,
+            "renderUntilClosingDoorTime": 0,
+            "flashOffTime": 0,
+            "flashOnTime": 0
+        }
+    ],
+    "modelYOffset": 1.0,
+    "gangwayInnerSideResource": "mtr:textures/gangway/sp1900_side.png",
+    "gangwayInnerTopResource": "mtr:textures/gangway/sp1900_roof.png",
+    "gangwayInnerBottomResource": "mtr:textures/gangway/sp1900_floor.png",
+    "gangwayOuterSideResource": "mtr:textures/gangway/sp1900_exterior.png",
+    "gangwayOuterTopResource": "mtr:textures/gangway/sp1900_exterior.png",
+    "gangwayOuterBottomResource": "mtr:textures/gangway/sp1900_exterior.png",
+    "gangwayWidth": 1.5,
+    "gangwayHeight": 2.25,
+    "gangwayYOffset": 1.0,
+    "gangwayZOffset": 0.5,
+    "barrierInnerSideResource": "",
+    "barrierInnerTopResource": "",
+    "barrierInnerBottomResource": "",
+    "barrierOuterSideResource": "",
+    "barrierOuterTopResource": "",
+    "barrierOuterBottomResource": "",
+    "barrierWidth": 2.25,
+    "barrierHeight": 1.0,
+    "barrierYOffset": 1.25,
+    "barrierZOffset": 0.25
+}

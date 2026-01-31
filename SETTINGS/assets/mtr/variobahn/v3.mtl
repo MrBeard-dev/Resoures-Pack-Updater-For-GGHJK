@@ -1,0 +1,191 @@
+# Blender MTL File: 'None'
+# Material Count: 15
+
+newmtl vehicle/tram/emissive/tram_blink_lights.mtl.009
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.896268 0.896269 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl vehicle/tram/emissive/tram_blink_lights.mtl.010
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.896268 0.896269 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_4d2.046
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_innen_normal.png
+map_Kd graz_variobahn_innen_albedo_opacity.png
+map_d graz_variobahn_innen_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_4d2.047
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_innen_normal.png
+map_Kd graz_variobahn_innen_albedo_opacity.png
+map_d graz_variobahn_innen_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_4d2.049
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_innen_normal.png
+map_Kd graz_variobahn_innen_albedo_opacity.png
+map_d graz_variobahn_innen_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_4d2.050
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_innen_normal.png
+map_Kd graz_variobahn_innen_albedo_opacity.png
+map_d graz_variobahn_innen_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_4d2.051
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_innen_normal.png
+map_Kd graz_variobahn_innen_albedo_opacity.png
+map_d graz_variobahn_innen_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_9a1.018
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_normal.png
+map_Kd graz_variobahn_albedo_opacity.png
+map_d graz_variobahn_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_9a1.019
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_normal.png
+map_Kd graz_variobahn_albedo_opacity.png
+map_d graz_variobahn_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_9a1.020
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_normal.png
+map_Kd graz_variobahn_albedo_opacity.png
+map_d graz_variobahn_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_9a1.021
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_normal.png
+map_Kd graz_variobahn_albedo_opacity.png
+map_d graz_variobahn_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_200_variobahn/graz_tw200_variobahn_e15.006
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_variobahn_dachausruestung_normal.png
+map_Kd graz_variobahn_dachausruestung_albedo_opacity.png
+map_d graz_variobahn_dachausruestung_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_500/graz_tw500_zubehoer_material.mtl.008
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_500_zubehoer_normal.png
+map_Kd graz_500_zubehoer_albedo_opacity.png
+map_d graz_500_zubehoer_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_500/graz_tw500_zubehoer_material.mtl.009
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_500_zubehoer_normal.png
+map_Kd graz_500_zubehoer_albedo_opacity.png
+map_d graz_500_zubehoer_albedo_opacity.png
+
+newmtl vehicle/tram/graz/tw_650_cityrunner/graz_tw650_cityrunn_f9f.006
+Ns 199.999995
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Bump -bm 0.000000 graz_cityrunner_innen_normal.png
+map_Kd graz_cityrunner_innen_albedo_opacity.png
+map_d graz_cityrunner_innen_albedo_opacity.png
